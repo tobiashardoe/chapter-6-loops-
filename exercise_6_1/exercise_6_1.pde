@@ -12,7 +12,7 @@ while (y <= height) {
 size (200,200);
 background (255);
   float w =199;
-  while (w < 200 && w > 0) {
+  while ( w > 0) {
     stroke(0);
     fill(w-20);
     ellipse (width/2,height/2,w,w);
