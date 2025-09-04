@@ -11,7 +11,7 @@ while (y <= height) {
 // circles
 size (200,200);
 background (255);
-  float w =199;
+  float w =200;
   while ( w > 0) {
     stroke(0);
     fill(w-20);
